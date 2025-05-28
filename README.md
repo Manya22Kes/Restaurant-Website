@@ -13,6 +13,3 @@ Features:
 
 Perfect for food lovers, local restaurants, or anyone craving a taste of web design!
 
----
-
-Let me know if you want to add tech stack details (like HTML/CSS/JS/React, etc.) or a live preview link!
