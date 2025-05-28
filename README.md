@@ -1,7 +1,4 @@
 # Restaurant-Website
-Sure, here's a short and snappy GitHub description you can use for your restaurant website repo:
-
----
 
 🍽️ **Restaurant Website** – A deliciously designed website showcasing mouthwatering food pics and a welcoming home page. Built to serve both aesthetics and appetite! 😋
 
